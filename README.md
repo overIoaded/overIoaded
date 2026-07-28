@@ -6,4 +6,4 @@
 
 
 
-　<p align="center">![](https://komarev.com/ghpvc/?username=2ft-high&label=fans&color=black)</p>
+　<p align="center">![](https://komarev.com/ghpvc/?username=2ft-high&label=fans&color=000000)</p>
