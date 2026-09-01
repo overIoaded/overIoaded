@@ -20,9 +20,7 @@
 
  
 
-  $\color{#6b6796}{\textsf{𝒙𝒊𝒆𝒐}}$  $\color{#FACDEC}{\textsf{𝒐𝒓}}$   $\color{#997EB2}{\textsf{𝒚𝒆𝒐𝒏 |}}$  $\color{#FACDEC}{\textsf{𝑫𝑰𝑫 /}}$  $\color{#997EB2}{\textsf{𝑩𝑷𝑫}}$
-
-$\color{#FACDEC}{\textsf{ 𝟏𝟕 ,}}$    $\color{#997EB2}{\textsf{ 𝐅𝐞𝐛}}$  $\color{#6b6796}{\textsf{𝟏𝟎 . }}$   $\color{#997EB2}{\textsf{𝐄𝐒𝐓𝐉,}}$  $\color{#FACDEC}{\textsf{𝐬𝐨𝟐𝐬𝐱𝟓𝐬𝐩𝟖,}}$  $\color{#6b6796}{\textsf{𝟐𝐰𝟑,}}$  $\color{#997EB2}{\textsf{𝐬𝐨/𝐬𝐱.}}$
+  $\color{#6b6796}{\textsf{𝒙𝒊𝒆𝒐}}$  $\color{#FACDEC}{\textsf{𝒐𝒓}}$   $\color{#997EB2}{\textsf{𝒚𝒆𝒐𝒏 |}}$  $\color{#FACDEC}{\textsf{𝑫𝑰𝑫 /}}$  $\color{#997EB2}{\textsf{𝑩𝑷𝑫}}$  $\color{#FACDEC}{\textsf{ 𝟏𝟕 ,}}$    $\color{#997EB2}{\textsf{ 𝐅𝐞𝐛}}$  $\color{#6b6796}{\textsf{𝟏𝟎 . }}$   $\color{#997EB2}{\textsf{𝐄𝐒𝐓𝐉,}}$  $\color{#FACDEC}{\textsf{𝐬𝐨𝟐𝐬𝐱𝟓𝐬𝐩𝟖,}}$  $\color{#6b6796}{\textsf{𝟐𝐰𝟑,}}$  $\color{#997EB2}{\textsf{𝐬𝐨/𝐬𝐱.}}$
  
 
 </td>
