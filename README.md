@@ -72,9 +72,7 @@ $\color{#FACDEC}{\textsf{ 𝟏𝟕 ,}}$    $\color{#997EB2}{\textsf{ 𝐅𝐞�
   $\color{#6b6796}{\textsf{“ 𝐼 𝑑𝑜}}$  $\color{#997EB2}{\textsf{𝑛𝑜𝑡 𝑓𝑒𝑎𝑟}}$  $\color{#FACDEC}{\textsf{𝑑𝑒𝑎𝑡ℎ. ”}}$
 
   <p align="center">
-<a href="https://mygoavemujica.atabook.org/"><img src="https://file.garden/aY2KYAKKkg6nubAI/Untitled1086_20260901190733.png" width="150"></a>
-<img src="https://file.garden/aY2KYAKKkg6nubAI/Untitled1087_20260901191031.png" width="100">
-<a href="https://oaksksjjs.straw.page/"><img src="https://file.garden/aY2KYAKKkg6nubAI/Untitled1086_20260901190815.png" width="150"></a>
-</p>
+<a href="https://mygoavemujica.atabook.org/"><img src="https://file.garden/aY2KYAKKkg6nubAI/Untitled1087_20260901191031.png" width="150"></a>
+
 
 　<p align="center">![](https://komarev.com/ghpvc/?username=2ft-high&label=humans&color=000000)</p>
