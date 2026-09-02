@@ -20,7 +20,7 @@
 
  
 
-  $\color{#6b6796}{\textsf{𝒙𝒊𝒆𝒐}}$  $\color{#FACDEC}{\textsf{𝒐𝒓}}$   $\color{#997EB2}{\textsf{𝒚𝒆𝒐𝒏 |}}$  $\color{#FACDEC}{\textsf{𝑫𝑰𝑫 /}}$  $\color{#997EB2}{\textsf{𝑩𝑷𝑫}}$  $\color{#FACDEC}{\textsf{ 𝟏𝟕 ,}}$    $\color{#997EB2}{\textsf{ 𝐅𝐞𝐛}}$  $\color{#6b6796}{\textsf{𝟏𝟎 . }}$   $\color{#997EB2}{\textsf{𝐈𝐍𝐓𝐏,}}$  $\color{#FACDEC}{\textsf{𝑆𝑋𝟓,}}$  $\color{#6b6796}{\textsf{𝟑𝐰𝟒,}}$  $\color{#997EB2}{\textsf{(𝑠𝑡𝑖𝑙𝑙 𝑙𝑒𝑎𝑟𝑛𝑖𝑛𝑔 𝑡𝑦𝑝𝑜𝑙𝑜𝑔𝑦)}}$       
+  $\color{#6b6796}{\textsf{𝒙𝒊𝒆𝒐}}$  $\color{#FACDEC}{\textsf{𝒐𝒓}}$   $\color{#997EB2}{\textsf{𝒚𝒆𝒐𝒏 |}}$    $\color{#FACDEC}{\textsf{ 𝟏𝟕 ,}}$    $\color{#997EB2}{\textsf{ 𝐅𝐞𝐛}}$  $\color{#6b6796}{\textsf{𝟏𝟎 . }}$   $\color{#997EB2}{\textsf{𝐈𝐍𝐓𝐏,}}$  $\color{#FACDEC}{\textsf{𝑆𝑋𝟓,}}$  $\color{#6b6796}{\textsf{𝟓𝐰𝟒,}}$  $\color{#997EB2}{\textsf{(𝑠𝑡𝑖𝑙𝑙 𝑙𝑒𝑎𝑟𝑛𝑖𝑛𝑔 𝑡𝑦𝑝𝑜𝑙𝑜𝑔𝑦)}}$       
  
 
 </td>
