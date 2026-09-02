@@ -1,6 +1,6 @@
 
 <p align="center">
-  <img src="https://file.garden/aY2KYAKKkg6nubAI/Untitled1085_20260901175433.png" width="350" />
+  <a href="https://bandori.fandom.com/wiki/Ave_Mujica"><img src="https://file.garden/aY2KYAKKkg6nubAI/Untitled1085_20260901175433.png" width="350" />
 </p>
 
 
@@ -13,7 +13,7 @@
 <table>
 <tr>
 <td width="170" valign="top">
-  <img src="https://file.garden/aY2KYAKKkg6nubAI/Untitled1079_20260901173933.png" width="250">
+    <a href="https://bandori.fandom.com/wiki/Wakaba_Mutsumi"><img src="https://file.garden/aY2KYAKKkg6nubAI/Untitled1079_20260901173933.png" width="250">
 </td>
 
 <td valign="middle">
@@ -31,7 +31,7 @@
   $\color{#FACDEC}{\textsf{✦ 𝐀𝐕𝐄}}$  $\color{#3093A6}{\textsf{𝐌𝐔𝐉𝐈𝐂𝐀 ✦}}$
 
   <p align="center">
-  <img src="https://file.garden/aY2KYAKKkg6nubAI/Untitled1082_20260901174650.png" width="350" />
+    <a href="https://bandori.fandom.com/wiki/Ave_Mujica"><img src="https://file.garden/aY2KYAKKkg6nubAI/Untitled1082_20260901174650.png" width="350" />
 </p>
 
  
@@ -46,7 +46,7 @@
 </td>
 
 <td width="170" align="right" valign="top">
-  <img src="https://file.garden/aY2KYAKKkg6nubAI/Untitled1079_20260901173939.png" width="250">
+    <a href="https://bandori.fandom.com/wiki/Mortis_(Alter)"><img src="https://file.garden/aY2KYAKKkg6nubAI/Untitled1079_20260901173939.png" width="250">
 </td>
 </tr>
 </table>
@@ -54,16 +54,16 @@
 
  
 <p align="center">
-  <img src="https://file.garden/aY2KYAKKkg6nubAI/Untitled1081_20260901174309.png" width="350" />
+    <a href="https://bandori.fandom.com/wiki/Ave_Mujica"><img src="https://file.garden/aY2KYAKKkg6nubAI/Untitled1081_20260901174309.png" width="350" />
 </p>
 
 
 <p align="center">
-  <img src="https://file.garden/aY2KYAKKkg6nubAI/Untitled1085_20260901175433.png" width="350" />
+    <a href="https://bandori.fandom.com/wiki/Ave_Mujica"><img src="https://file.garden/aY2KYAKKkg6nubAI/Untitled1085_20260901175433.png" width="350" />
 </p>
 
 <p align="center">
-  <img src="https://file.garden/aY2KYAKKkg6nubAI/Untitled1076_20260901173707.png" width="350" />
+    <a href="https://bandori.fandom.com/wiki/Wakaba_Mutsumi"><img src="https://file.garden/aY2KYAKKkg6nubAI/Untitled1076_20260901173707.png" width="350" />
 </p>
 
 <p align="center">
