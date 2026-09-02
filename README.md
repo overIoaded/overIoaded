@@ -5,7 +5,7 @@
 
 
 <p align="center">
-  <img src="https://file.garden/aY2KYAKKkg6nubAI/Untitled1083_20260901175018.png" width="250" />
+    <a href="https://bandori.fandom.com/wiki/Ave_Mujica"><img src="https://file.garden/aY2KYAKKkg6nubAI/Untitled1083_20260901175018.png" width="250" />
 </p>
 
 
